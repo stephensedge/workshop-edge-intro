@@ -2,6 +2,7 @@
 
 == Downloading the UBI
 
+test
 In this lab, you will be installing software into the container 
 image running as an interactive application. To do this you will
 need `yum`, but do not need `systemd` for managing services within the
